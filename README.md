@@ -13,3 +13,5 @@ MySQL Database
 
 ## Versions
 v.1.0 = Initial release
+
+v.1.1 = Added !dis command. Bug fixes to !rwarn and !swarn. Added function to put a players steamID into database when joining if not already in database, in order for !dis to work properly.
