@@ -1,5 +1,8 @@
 # Warning-System
 
+!warn - Command creates a menu with !gwarn, !rwarn, !swarn and !dis commands to be selected.
+
+
 !gwarn - Command creates a menu with a list of all online players. Choosing a player will let you choose a warning reason to add to MySQL database.<br/>
 
 !rwarn - Command creates a menu with a list of all online players. Choosing a player will let you remove a warning from MySQL database.<br/>
